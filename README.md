@@ -12,3 +12,6 @@
 ## 我的微信公众号
 
 ![](http://www.ityouknow.com/assets/images/keeppuresmile_430.jpg)
+
+SecretId:IKID060iDWr8GSVN5g6TfePzPccOsAE5j9KI
+SecretKey:qUu7A1sTvBWijX9XisD5HIDwTn0893pT
